@@ -45,7 +45,7 @@ Example output:
 18-Jul-2023 10:44:27 - Found KB5027282 on PC-DC42<br>
 18-Jul-2023 10:44:34 - Found KB5027282 on PC-DC22<br>
 
-Hosts checked: 34
-Successes: 25
-Errors: 9
-Total time elapsed: 1678.4703386 seconds
+Hosts checked: 34<br>
+Successes: 25<br>
+Errors: 9<br>
+Total time elapsed: 1678.4703386 seconds<br>
