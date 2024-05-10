@@ -44,6 +44,7 @@ Example output:
 18-Jul-2023 10:44:12 - Found KB5027282 on PC-DC32
 18-Jul-2023 10:44:27 - Found KB5027282 on PC-DC42
 18-Jul-2023 10:44:34 - Found KB5027282 on PC-DC22
+
 Hosts checked: 34
 Successes: 25
 Errors: 9
