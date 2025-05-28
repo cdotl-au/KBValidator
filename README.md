@@ -49,3 +49,18 @@ Hosts checked: 34<br>
 Successes: 25<br>
 Errors: 9<br>
 Total time elapsed: 1678.4703386 seconds<br>
+
+<div style="
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100vw;
+  height: 100vh;
+  opacity: 0.5;
+  background: url('https://github.com/I-Am-Jakoby/PowerShell-for-Hackers/blob/main/Assets/JakobyDancing.gif?raw=true') no-repeat center center fixed;
+  background-size: cover;
+"></div>
+
+# Your README content here
+
